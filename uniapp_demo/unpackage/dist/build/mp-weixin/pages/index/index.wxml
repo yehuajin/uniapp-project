@@ -1,1 +1,1 @@
-<view class="content"><view class="text-area"><view class="title">{{title}}</view></view></view>
+<view class="warp"><view class="title">业务内容</view><view class="content"><view>财税咨询、尽职调查、审计报告</view><view>股权设计、内控管理、评估报告</view><view>公司注册、乱账整理、代理记账</view></view><view class="job">让一切美好变得更有可能</view><view class="job">用心让一切美好变得更有可能</view><view class="job">联系方式：15209890187(微信同号)</view></view>
